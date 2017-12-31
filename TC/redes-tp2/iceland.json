@@ -1,0 +1,178 @@
+[
+    {
+        "rtt": 0.031732702255249025,
+        "isIpPrivate": true,
+        "location": "",
+        "hop_num": 1,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "",
+        "ip_address": "10.0.2.2",
+        "continent": ""
+    },
+    {
+        "rtt": 0.04289426654577255,
+        "isIpPrivate": true,
+        "location": "",
+        "hop_num": 2,
+        "pctNotSent": 20,
+        "salto_intercontinental": false,
+        "country": "",
+        "ip_address": "192.168.1.1",
+        "continent": ""
+    },
+    {
+        "rtt": 0.05238903164863586,
+        "isIpPrivate": false,
+        "location": [
+            -30.95,
+            -58.8
+        ],
+        "hop_num": 3,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "AR",
+        "ip_address": "200.3.60.192",
+        "continent": "SA"
+    },
+    {
+        "rtt": 0.05776754021644592,
+        "isIpPrivate": false,
+        "location": [
+            -34.6033,
+            -58.3817
+        ],
+        "hop_num": 4,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "AR",
+        "ip_address": "181.88.108.18",
+        "continent": "SA"
+    },
+    {
+        "rtt": 0.05983134508132935,
+        "isIpPrivate": false,
+        "location": [
+            -34.6033,
+            -58.3817
+        ],
+        "hop_num": 5,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "AR",
+        "ip_address": "181.88.109.37",
+        "continent": "SA"
+    },
+    {
+        "rtt": 0.06016140580177307,
+        "isIpPrivate": false,
+        "location": [
+            42.8333,
+            12.8333
+        ],
+        "hop_num": 6,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "IT",
+        "ip_address": "195.22.220.208",
+        "continent": "EU"
+    },
+    {
+        "rtt": 0.29461570382118224,
+        "isIpPrivate": false,
+        "location": [
+            42.8333,
+            12.8333
+        ],
+        "hop_num": 7,
+        "pctNotSent": 0,
+        "salto_intercontinental": true,
+        "country": "IT",
+        "ip_address": "195.22.209.63",
+        "continent": "EU"
+    },
+    {
+        "rtt": 0.28899537920951845,
+        "isIpPrivate": false,
+        "location": [
+            51.5142,
+            -0.0931
+        ],
+        "hop_num": 8,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "GB",
+        "ip_address": "195.66.225.24",
+        "continent": "EU"
+    },
+    {
+        "rtt": 0.33608210682868955,
+        "isIpPrivate": false,
+        "location": [
+            59.3294,
+            18.0686
+        ],
+        "hop_num": 9,
+        "pctNotSent": 0,
+        "salto_intercontinental": true,
+        "country": "SE",
+        "ip_address": "109.105.102.1",
+        "continent": "EU"
+    },
+    {
+        "rtt": 0.32968345284461975,
+        "isIpPrivate": false,
+        "location": [
+            59.3294,
+            18.0686
+        ],
+        "hop_num": 10,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "SE",
+        "ip_address": "109.105.102.2",
+        "continent": "EU"
+    },
+    {
+        "rtt": 0.33020021915435793,
+        "isIpPrivate": false,
+        "location": [
+            65.0,
+            -18.0
+        ],
+        "hop_num": 11,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "IS",
+        "ip_address": "130.208.17.106",
+        "continent": "EU"
+    },
+    {
+        "rtt": 0.332428389787674,
+        "isIpPrivate": false,
+        "location": [
+            65.0,
+            -18.0
+        ],
+        "hop_num": 12,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "IS",
+        "ip_address": "130.208.18.174",
+        "continent": "EU"
+    },
+    {
+        "rtt": 0.34283997416496276,
+        "isIpPrivate": false,
+        "location": [
+            65.0,
+            -18.0
+        ],
+        "hop_num": 13,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "IS",
+        "ip_address": "130.208.165.207",
+        "continent": "EU"
+    }
+]

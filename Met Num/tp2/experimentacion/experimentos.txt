@@ -1,0 +1,13 @@
+1)
+correr entrenamiento para M y M' para imagenes reducidas y grandes, comparando tiempos
+
+Histograma (un grafico con 4 mediciones)
+cuanto tardo con M chiquita, M grande, M' chiquita, M' grande
+
+2)
+calcular la precisión en función del entrenamiento y las componentes principales.
+Vario entre la cantidad de imagenes para entrenar y entre las cp.
+(3 y 7 imagenes, k cp)
+
+3)
+Al tener la mejor configuracion, comparar el tiempo de reconocimiento (mitad entrenamiento, mitad reconocimiento) con una cota sintótica

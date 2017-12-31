@@ -1,0 +1,66 @@
+exp 1 tiempo temp tierra
+
+1 0.607
+t 0,442
+logt 0.583
+cost/sin t 82.5
+t^2 0.32
+1/t 0.813
+
+1, t 0.138
+1 logt 0.140
+1, t^2 0.137
+1,t, t^2 0.220
+1 cost 0.634
+1 sin t 0.610
+1, t, cost 0.160
+
+1, t, sint^5 0.129 igual me quedaria con esta
+
+1, t, sin(100*t^5) 0.109
+
+-------------------------------
+exp 2 temp tierra emision gas
+
+1 0,171
+t 11.549
+logt 0,123
+sin t 85
+cos t 100
+t^2 65
+1/t 8.4
+
+1,t 0.132
+1,logt 0.125
+1, t, sint 0.238
+1, t, cost 0.135 esta entiende mas los ciclos
+1,1/t 0.121
+1, 1/t**2 0.121
+1, t, t^2 0.394
+1, cos t 0.15
+1, sin t 0.198
+1, t, sint^5 0.222
+1, t, cost^5 0.132	
+
+
+1, t, cost**5 0.132 esta entiende mas los ciclos
+1,1/t 0.121
+
+
+----------------------------------------
+exp3 china
+1 0.159
+t 26
+1/t 13
+log t 0.13
+sin t 51
+cos t 60
+t^2 140
+
+1, t 0,124
+1, log t 0,101
+1, log t, cos t 0.152
+1, log t, sin t 0,095 (!!)
+1, t^2 0,165
+1, t, t^2 4,84
+log(t) sin(t) 0,142

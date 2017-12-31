@@ -1,0 +1,275 @@
+[
+    {
+        "rtt": 0.040407925844192505,
+        "isIpPrivate": true,
+        "location": "",
+        "hop_num": 1,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "",
+        "ip_address": "10.0.2.2",
+        "continent": ""
+    },
+    {
+        "rtt": 0.06651002168655396,
+        "isIpPrivate": true,
+        "location": "",
+        "hop_num": 2,
+        "pctNotSent": 20,
+        "salto_intercontinental": false,
+        "country": "",
+        "ip_address": "192.168.1.1",
+        "continent": ""
+    },
+    {
+        "rtt": 0.060303610563278195,
+        "isIpPrivate": false,
+        "location": [
+            -30.95,
+            -58.8
+        ],
+        "hop_num": 3,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "AR",
+        "ip_address": "200.3.60.192",
+        "continent": "SA"
+    },
+    {
+        "rtt": 0.20327503681182862,
+        "isIpPrivate": false,
+        "location": [
+            -34.6033,
+            -58.3817
+        ],
+        "hop_num": 4,
+        "pctNotSent": 0,
+        "salto_intercontinental": true,
+        "country": "AR",
+        "ip_address": "181.88.108.18",
+        "continent": "SA"
+    },
+    {
+        "rtt": 0.19524224996566772,
+        "isIpPrivate": false,
+        "location": [
+            -34.6033,
+            -58.3817
+        ],
+        "hop_num": 5,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "AR",
+        "ip_address": "200.3.81.82",
+        "continent": "SA"
+    },
+    {
+        "rtt": null,
+        "isIpPrivate": null,
+        "location": null,
+        "hop_num": 6,
+        "pctNotSent": 100,
+        "salto_intercontinental": null,
+        "country": null,
+        "ip_address": null,
+        "continent": null
+    },
+    {
+        "rtt": 0.22061703801155091,
+        "isIpPrivate": false,
+        "location": [
+            37.5155,
+            -121.8962
+        ],
+        "hop_num": 7,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "US",
+        "ip_address": "184.105.213.25",
+        "continent": "NA"
+    },
+    {
+        "rtt": 0.2405702292919159,
+        "isIpPrivate": false,
+        "location": [
+            37.5155,
+            -121.8962
+        ],
+        "hop_num": 8,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "US",
+        "ip_address": "184.105.81.201",
+        "continent": "NA"
+    },
+    {
+        "rtt": 0.252937376499176,
+        "isIpPrivate": false,
+        "location": [
+            37.5155,
+            -121.8962
+        ],
+        "hop_num": 9,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "US",
+        "ip_address": "184.105.223.178",
+        "continent": "NA"
+    },
+    {
+        "rtt": 0.2778195083141327,
+        "isIpPrivate": false,
+        "location": [
+            37.5155,
+            -121.8962
+        ],
+        "hop_num": 10,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "US",
+        "ip_address": "184.105.223.193",
+        "continent": "NA"
+    },
+    {
+        "rtt": 0.38310777544975283,
+        "isIpPrivate": false,
+        "location": [
+            37.5155,
+            -121.8962
+        ],
+        "hop_num": 11,
+        "pctNotSent": 0,
+        "salto_intercontinental": true,
+        "country": "US",
+        "ip_address": "184.105.213.118",
+        "continent": "NA"
+    },
+    {
+        "rtt": 0.38823463916778567,
+        "isIpPrivate": false,
+        "location": [
+            37.5155,
+            -121.8962
+        ],
+        "hop_num": 12,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "US",
+        "ip_address": "184.105.81.26",
+        "continent": "NA"
+    },
+    {
+        "rtt": null,
+        "isIpPrivate": null,
+        "location": null,
+        "hop_num": 13,
+        "pctNotSent": 100,
+        "salto_intercontinental": null,
+        "country": null,
+        "ip_address": null,
+        "continent": null
+    },
+    {
+        "rtt": 0.3744224190711975,
+        "isIpPrivate": false,
+        "location": [
+            35.69,
+            139.69
+        ],
+        "hop_num": 14,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "JP",
+        "ip_address": "124.83.228.74",
+        "continent": "AS"
+    },
+    {
+        "rtt": 0.3819767951965332,
+        "isIpPrivate": false,
+        "location": [
+            35.69,
+            139.69
+        ],
+        "hop_num": 15,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "JP",
+        "ip_address": "124.83.252.242",
+        "continent": "AS"
+    },
+    {
+        "rtt": 0.37948801517486574,
+        "isIpPrivate": false,
+        "location": [
+            35.69,
+            139.69
+        ],
+        "hop_num": 16,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "JP",
+        "ip_address": "158.205.134.22",
+        "continent": "AS"
+    },
+    {
+        "rtt": null,
+        "isIpPrivate": null,
+        "location": null,
+        "hop_num": 17,
+        "pctNotSent": 100,
+        "salto_intercontinental": null,
+        "country": null,
+        "ip_address": null,
+        "continent": null
+    },
+    {
+        "rtt": null,
+        "isIpPrivate": null,
+        "location": null,
+        "hop_num": 18,
+        "pctNotSent": 100,
+        "salto_intercontinental": null,
+        "country": null,
+        "ip_address": null,
+        "continent": null
+    },
+    {
+        "rtt": null,
+        "isIpPrivate": null,
+        "location": null,
+        "hop_num": 19,
+        "pctNotSent": 100,
+        "salto_intercontinental": null,
+        "country": null,
+        "ip_address": null,
+        "continent": null
+    },
+    {
+        "rtt": 0.3799894392490387,
+        "isIpPrivate": false,
+        "location": [
+            35.69,
+            139.69
+        ],
+        "hop_num": 20,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "JP",
+        "ip_address": "154.34.240.254",
+        "continent": "AS"
+    },
+    {
+        "rtt": 0.3827370941638947,
+        "isIpPrivate": false,
+        "location": [
+            35.69,
+            139.69
+        ],
+        "hop_num": 21,
+        "pctNotSent": 0,
+        "salto_intercontinental": false,
+        "country": "JP",
+        "ip_address": "210.152.135.178",
+        "continent": "AS"
+    }
+]

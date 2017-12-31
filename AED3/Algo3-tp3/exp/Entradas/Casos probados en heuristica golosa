@@ -1,0 +1,39 @@
+QUE NO ANDAN
+
+2 3 1000
+
+1 1 1
+5 1 1
+2 3
+4 3
+3 4
+output: D= 8 k= 5 i= 3 5 4 2 1 
+
+2 3 3
+
+1 1 1
+5 1 1
+2 3
+4 3
+3 4
+output esperado: 3 1 2
+
+
+
+------------------------------
+
+CASOS ESPECIALES QUE ANDAN
+
+Con 0 pociones.
+
+
+
+-------------------------------
+CASOS QUE NUNCA HAY QUE PROBAR
+
+
+Con un millon y medio de poke paradas y dosciento mil ochociento millones y medio de gimnasios con una mochila de 10^39392349023 de capacidad.
+
+--------------------------------
+
+NO HAY QUE (RE)PROBAR
